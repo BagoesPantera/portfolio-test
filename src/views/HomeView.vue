@@ -6,7 +6,7 @@
 
 <template>
     <div class="home-view">
-        <h1>HomeView</h1>
+        <h1 class="text-center">HomeView</h1>
     </div>
 </template>
 
